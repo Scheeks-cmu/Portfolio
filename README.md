@@ -14,4 +14,3 @@ Here's where all of my cool data visualizations will go!
 
 The following visual represents the general government debt-to-GDP ratio of several countries between the years 19955 to 2019...
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/5289989"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

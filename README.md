@@ -12,6 +12,6 @@ Here's where all of my cool data visualizations will go!
 
 # General Government Debt
 
-The following link will lead you to my github page containing visualizations that represent the general government debt-to-GDP ratio of several countries between the years 19955 to 2019...
+The following link will lead you to my github page containing visualizations that represent the general government debt-to-GDP ratio of several countries between the years 1995 to 2019...
 
 https://scheeks-cmu.github.io/Dataviz2.md/

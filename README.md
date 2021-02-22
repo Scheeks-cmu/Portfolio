@@ -15,3 +15,10 @@ Here's where all of my cool data visualizations will go!
 The following link will lead you to my github page containing visualizations that represent the general government debt-to-GDP ratio of several countries between the years 1995 to 2019...
 
 https://scheeks-cmu.github.io/Dataviz2.md/
+
+
+# Critique by Design
+
+The following link will lead you to my github page containing visualizations that represent the Pittsburgh's fetal mortality rates in comparison to comparable cities...
+
+https://scheeks-cmu.github.io/Dataviz3.md/

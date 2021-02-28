@@ -1,0 +1,1 @@
+	<DIV STYLE="text-align:Left;"><DIV><DIV><DIV STYLE="font-size:12pt"><P><SPAN>Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.</SPAN></P></DIV></DIV></DIV></DIV>

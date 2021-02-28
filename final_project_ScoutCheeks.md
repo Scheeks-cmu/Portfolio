@@ -21,8 +21,7 @@ I will use the 2020 EJ (environmental justice) index provided by the United Stat
 
 The link for the dataset is as follows:
 
- 2020 EPA EJIndex
-ftp://newftp.epa.gov/EJSCREEN/2020/
+[2020 EPA EJIndex](ftp://newftp.epa.gov/EJSCREEN/2020/)
 
 I would like to use the data to create an informative and progressive presentation that will actually be useful in addressing environmental injustices. In terms of geographic location, I may start broad from a national, state-wide level and then focus into a specific area such as Allegheny County. The EPA has regional subunits that oversee individual states across multiple geographic regions in the US, so I could definitely manipulate that information to create an effective data visualization. Moreover, the overall scope of my project will be presenting how the various types of injustices such as water runoff, air pollution, lack of access to healthy foods etc. vary across marginalized groups, so I most likely will have to use multiple data files to capture all that information while simultaneously examining the racial aspect in one graph. 
 

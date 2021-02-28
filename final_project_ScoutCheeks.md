@@ -10,10 +10,13 @@ I am interested in showing the disparities of social and environmental injustice
 ## Initial Sketches
 
 The first sketch is a map of Allegheny County. I think it would be useful to offer a data visualization on which areas within the city of Pittsburgh encounter the highest rates of negative environmental effects, since my ultimate goal is to start a nonprofit in that area.
+![image](https://user-images.githubusercontent.com/78758958/109427023-78a8af00-79be-11eb-9c82-44777c17b485.png)
+
 
 The second sketch is a simple pie chart that illustrates various categories of environmental justice. Straight forward and to the point.  
 
 The third sketch is an infographic. I’m still grappling with how I want to present the data on environmental justice inequities and considering that the topic has so many intersectional factors, I think an infographic would be a comprehensive way to present a lot of substantive information at once.
+![image](https://user-images.githubusercontent.com/78758958/109427072-b1488880-79be-11eb-87db-99a54f88c5f9.png)
 
 ## Data
 

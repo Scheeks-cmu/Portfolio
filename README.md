@@ -7,21 +7,19 @@ Hello! My name is Scout Cheeks (she/her) and I'm a first year graduate student i
 # What I Hope to Learn
 I hope that I am able to thoroughly grasp the main concepts of data visualization. It is interesting to compare/contrast charts and grasps, but by the end of the course I want to be able to identify the theoretical frameworks to compose or improve a data visual. Furthermore, I want to be able to readily translate the skills learned throughout this course into meaningful work in the policy field. 
 
-# Portfolio
-Here's where all of my cool data visualizations will go!
-
 # General Government Debt
 
 The following link will lead you to my github page containing visualizations that represent the general government debt-to-GDP ratio of several countries between the years 1995 to 2019...
 
-https://scheeks-cmu.github.io/Dataviz2.md/
+[Government Debt](https://scheeks-cmu.github.io/Dataviz2.md/)
 
 
 # Critique by Design
 
 The following link will lead you to my github page containing visualizations that represent the Pittsburgh's fetal mortality rates in comparison to comparable cities...
 
-https://scheeks-cmu.github.io/Dataviz3.md/
+[Pittsburgh's Fetal Mortality Rates](https://scheeks-cmu.github.io/Dataviz3.md/)
+
 
 # Environmental Injustices in Marginalized Communities 
 

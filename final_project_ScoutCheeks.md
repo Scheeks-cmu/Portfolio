@@ -20,7 +20,7 @@ The second sketch is a simple pie chart that illustrates various categories of e
 ![Scannable Document 2 on Feb 28, 2021 at 11_55_52 AM](https://user-images.githubusercontent.com/78758958/109427183-2c11a380-79bf-11eb-8ca8-c9448419744a.jpg)
 
 
-The third sketch is an infographic. I’m still grappling with how I want to present the data on environmental justice inequities and considering that the topic has so many intersectional factors, I think an infographic would be a comprehensive way to present a lot of substantive information at once.
+The third sketch is an infographic. I’m still grappling with how I want to present the data on environmental justice inequities and considering that the topic has so many intersectional factors; so I think an infographic would be a comprehensive way to present a lot of substantive information at once.
 
 ![image](https://user-images.githubusercontent.com/78758958/109427072-b1488880-79be-11eb-87db-99a54f88c5f9.png)
 
@@ -36,4 +36,4 @@ I would like to use the data to create an informative and progressive presentati
 
 ## Method and Medium
 
-I plan to build from the data using Shorthand due to its interactive features and the ease of creating an appealing project without having worry about the technical nuances. I will use Flourish studio’s pre-constructed templates for the bulk of my actual graphics. If I decide to do a story map, I will use Tableau since I can overlap multiple data files into one project and create a multi-dimensional approach. Though my project deliverable will be documented digitally, the goal is to use the interactive features from these methods and mediums to invoke implementable and actionable changes to environmental injustices.  
+I plan to build from the data using Shorthand due to its interactive features and the ease of creating an appealing project without having to worry about the technical nuances. I will use Flourish studio’s pre-constructed templates for the bulk of my actual graphics. If I decide to do a story map, I will use Tableau since I can overlap multiple data files into one project and create a multi-dimensional approach. Though my project deliverable will be documented digitally, the goal is to use the interactive features from these methods and mediums to invoke implementable and actionable changes to environmental injustices.  

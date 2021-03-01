@@ -1,5 +1,5 @@
 
-# "Environmental Injustice in Marginalized Communities"
+# "Environmental Injustices in Marginalized Communities"
 
 ## Outline
 

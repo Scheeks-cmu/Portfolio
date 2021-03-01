@@ -22,3 +22,10 @@ https://scheeks-cmu.github.io/Dataviz2.md/
 The following link will lead you to my github page containing visualizations that represent the Pittsburgh's fetal mortality rates in comparison to comparable cities...
 
 https://scheeks-cmu.github.io/Dataviz3.md/
+
+# Environmental Injustices in Marginalized Communities 
+
+The following link will lead you to my github page containing preliminary steps of creating my final project including an outline draft sketches...
+
+You can view Part 1 of my project [here](final_project_ScoutCheeks.md)
+

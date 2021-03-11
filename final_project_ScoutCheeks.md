@@ -1,3 +1,6 @@
+Link to [Portfolio](README.md)
+
+Link to [Part 2](Final_Project_Part2.md)
 
 # "Environmental Injustices in Marginalized Communities"
 

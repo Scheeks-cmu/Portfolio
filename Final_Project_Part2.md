@@ -143,7 +143,6 @@ So, if your friend throws a piece of garbage on the ground, let him know that th
 - Approach to identifying representative individuals: I interview people of color, but to make the sample more representative I chose participants who
  1) come from diverse cultural/ethnic backgrounds and
  2) live in either impoverished and non-impoverished areas within Pittsburgh. 
-
 - Interview Findings:							
 
 # *Questions*

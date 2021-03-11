@@ -23,7 +23,9 @@ The following link will lead you to my github page containing visualizations tha
 
 # Environmental Injustices in Marginalized Communities 
 
-The following link will lead you to my github page containing preliminary steps of creating my final project including an outline draft sketches...
+The following link will lead you to my github page containing preliminary steps of creating my final project including an outline of draft sketches, wireframes, and user research...
 
 You can view Part 1 of my project [here](final_project_ScoutCheeks.md)
+You can view Part 2 of my project [here](Final_Project_Part2.md)
+
 

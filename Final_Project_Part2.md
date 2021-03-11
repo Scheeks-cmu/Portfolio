@@ -22,22 +22,22 @@ Since environmental (in)justice is such a complex topic that takes many forms wi
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEYSLvyk2Y&#x2F;view?embed">
   </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEYSLvyk2Y&#x2F;view?utm_content=DAEYSLvyk2Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">The Lowdown on Environmental Injustices by Scout Cheeks</a> 
 
-Health 
+- Health
 Due to long-standing inequalities in living, working, health, and social conditions, minorities in the U.S. are 4-5 times more likely to be hospitalized from COVID-19 than the White population
 
-Air 
+- Air 
 People of color make up 56% of the population living in neighborhoods with toxic emission facilities, compared to 30% elsewhere.
 
-Food
+- Food
 Food prices are higher, and quality is lower in high poverty areas, causing food insecurity. On overage, the U.S. household spends 14% of income on food; low-income families spend over 30%.
 
-Climate Change 
+- Climate Change 
 Low-income communities have a higher likelihood of exposure to climate change threats (e.g., flooding, storms, and droughts) due to inadequate housing and infrastructure.
 
-Energy 
+- Energy 
 Low-income households spend 3x as much of their income on energy than higher-income households, despite consuming less energy,
 
-Land 
+- Land 
 Availability of cheap land in disadvantaged urban centers has led to gentrification, an increase in property values that often makes the area unaffordable to existing (generally lower income) residents. This causes displacement in addition to as social, economic, and cultural stress.
 
 Source:

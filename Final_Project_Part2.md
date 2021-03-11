@@ -143,32 +143,47 @@ So, if your friend throws a piece of garbage on the ground, let him know that th
 *Questions*
 
 1) What do you think the purpose of this dataviz is for?
+
 2) Were you aware of this information previously?
+
 3) If I were to create a presentation from this data, to whom do you think it would be intended for?
+
 4) Is there anything that’s surprising/ difficult to understand in either the info or the data visualizations?
+
 5) What would you change? 
+
 6) What do you think would be an effective way for me to incite curiosity in this topic?
 
 *Main Findings*	
 
 1) Overall, all the respondents understood the gist of my data visualizations, but at time times they relied on the times to understand each graph’s purpose. 
+
 2) Most of my respondents know of EJ, but they weren’t aware it could come in certain forms such as energy poverty or gentrification. One of my interviews pointed out that the areas highlighted in my bar chart were “Mon Valley” towns located alongside the Monongahela River.
+
 3) Two respondents said the intended audience is the general public. One respondent said it’s geared to Mayor Peduto or other Pittsburgh residents.
+
 4) Two of the interviewees weren’t sure how to define energy poverty. They also mentioned that because they live in Pittsburgh, they’re familiar with the areas highlighted in my bar chart, but if they hadn’t lived in Pittsburgh, they would know that those areas are majority poor communities of color.
+
 5) Respondents mentioned that the infographic was a bit difficult to read, so they would make the font larger.
 Another respondent said that the bars on the chart looked as if they were the same lengths, so perhaps they would change the color of each bar to highlight the differences. All interviews felt that the format of the pie chart should be changed so that the labels are fitting on each slice without overlap.
+
 6) Respondents mentioned that with this sort of topic, it’s so easy for people to brush off as if environmental injustice only happens in other places. One respondent suggested that if I’m trying increase curiosity in my target audience, I need to discuss what’s happening in neighborhoods they’re familiar with or ask them where their parents/grandparents live and discuss that.
 
 *Future Changes*
 
 1) I will be more deliberate about my titles and labels, as well as the information being displayed. I also think the visualizations may be easier to understand with some narrative with some context, but I do need to be more strategic about my data.
+
 2) I should define less commonly known terms, being mindful to avoid jargon. In general, I need to proofread multiple times for typos and minor errors.
+
 3) Though I do want everyone to know this information, I think I should reframe my narrative to be more targeted toward marginalized communities in Pittsburgh.
+
 4) I know that my data visualizations are a work in progress. In revising my graphs using some of the suggestions as to what respondents would change, I’m hoping that I can create more effective, clear, and visually appealing graphs. 
+
 5) Pie Chart- if I’m not going to use specific proportions just use icons rather than a pie chart
 Infographic- use more impactful headers to call out facts like “food deserts” or “gentrification” (use iconography)
 Bar chart- use color and make vertical
 Map of Allegheny County- in additional to highlighting areas, provide racial demographics for each as well 
+
 6) I will add a more personal appeal to the story and presentation. I chose the topic because it is personal to me, but I may have lost sight of this note when creating my project. Also, I will provide more actionable ways contribute to EJ while simultaneously encouraging sustainable behaviors.
 
 Resources:

@@ -6,6 +6,10 @@ Growing up, I’ve also has a particular curiosity in the beautiful Earth and al
 
 The intersection of environmentalism + social justice
 
+![image](https://user-images.githubusercontent.com/78758958/110729206-4718ba80-81ec-11eb-89dc-93bcf0aebcf7.png)
+
+![image](https://user-images.githubusercontent.com/78758958/110729224-50098c00-81ec-11eb-8baf-3dc83b701116.png)
+
 According to the Environmental Protection Agency, it's "Environmental justice is the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies." 
 https://www.epa.gov/environmentaljustice
 
@@ -57,6 +61,12 @@ Some examples of environmental injustice in the US:
 https://www.insider.com/environmental-racism-examples-united-states-2020-8#warren-county-north-carolina-9
 
 
+
+![image](https://user-images.githubusercontent.com/78758958/110729239-58fa5d80-81ec-11eb-8947-e3a38d510ef9.png)
+
+![image](https://user-images.githubusercontent.com/78758958/110729255-5ef03e80-81ec-11eb-8c6f-3b2c66c51317.png)
+
+
 # Case Study: Allegheny County and Air Pollution
 
 Pittsburgh is known as the “Steel City” for a reason…
@@ -96,7 +106,11 @@ Too much text- largest to smallest- define environmental needs and EJ index scor
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5509663"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 What I am working toward recreating:
+
+![image](https://user-images.githubusercontent.com/78758958/110729279-69123d00-81ec-11eb-9717-5e15dc71d448.png)
+
  
 https://www.alleghenycounty.us/uploadedFiles/Allegheny_Home/Health_Department/Resources/Data_and_Reporting/Chronic_Disease_Epidemiology/2019-Environmental-Justice-Report.pdf
 

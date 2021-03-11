@@ -1,3 +1,7 @@
+Link to [Part 1](final_project_ScoutCheeks.md)
+
+Link to [Part 2](Final_Project_Part2.md)
+
 # Portfolio
 This is my public portfolio for the Telling Stories with Data class at CMU!
 

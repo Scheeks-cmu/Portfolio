@@ -1,4 +1,5 @@
 Link to [Portfolio](README.md)
+
 Link to [Part 1](final_project_ScoutCheeks.md)
 
 ## *Make caring for the environment cool…to the coolest people…in the coolest places*

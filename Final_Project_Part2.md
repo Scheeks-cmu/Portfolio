@@ -16,7 +16,7 @@ Since environmental (in)justice is such a complex topic that takes many forms wi
  border-radius: 8px; will-change: transform;">
   <iframe style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEYSLvyk2Y&#x2F;view?embed">
-  </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEYSLvyk2Y&#x2F;view?utm_content=DAEYSLvyk2Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">The Lowdown on Environmental Injustices by Scout Cheeks</a> by linwood412
+  </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEYSLvyk2Y&#x2F;view?utm_content=DAEYSLvyk2Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">The Lowdown on Environmental Injustices by Scout Cheeks</a> 
 
 Health 
 Due to long-standing inequalities in living, working, health, and social conditions, minorities in the U.S. are 4-5 times more likely to be hospitalized from COVID-19 than the White population
@@ -51,7 +51,9 @@ Helpful because she didn’t know exactly what these look like
 <div class="flourish-embed flourish-chart" data-src="visualisation/5503149"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Some examples of environmental injustice in the US:
+
 -Flint, Michigan, etc.
+
 https://www.insider.com/environmental-racism-examples-united-states-2020-8#warren-county-north-carolina-9
 
 
@@ -68,8 +70,11 @@ With Allegheny County alone…
 
 •	11.7 live under the poverty line
 •	Less than 1 are Hispanic and 10 are non-Hispanic
+
 https://ephtracking.cdc.gov/showInfoByLocationExt?&FIPS=42003
+
 Pittsburgh has yet again been ranked as one of the worst places for air pollution among US cities, coming in at 8th place
+
 https://www.pghcitypaper.com/pittsburgh/report-pittsburgh-ranked-8th-worst-for-air-pollution-among-us-cities/Content?oid=17179037
 
 Within the city:
@@ -144,4 +149,3 @@ https://www.alleghenycounty.us/Health-Department/Resources/Data-and-Reporting/Ai
 https://www.insider.com/environmental-racism-examples-united-states-2020-8#cancer-alley-louisiana-1
 https://www.wastedive.com/news/majority-of-us-incinerators-located-in-marginalized-communities-report-r/555375/
 
-![image](https://user-images.githubusercontent.com/78758958/110727756-da9cbc00-81e9-11eb-824b-cbec36a209a5.png)

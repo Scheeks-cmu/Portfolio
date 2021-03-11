@@ -1,4 +1,4 @@
-## Make caring for the environment cool…to the coolest people…in the coolest places*
+## *Make caring for the environment cool…to the coolest people…in the coolest places*
 
 Growing up, I’ve also has a particular curiosity in the beautiful Earth and all of her inhabitants. I used to cry when I would see pictures of ocean shores filled with plastic or duckling feathers smothered with the remnants of oil spills. As I got older, I became more vocal about my interests. I would interact with my friends, many of whom were people of color, and they would think I was a nerd for picking up a piece of litter or asking them to recycle their plastic bottle. I noticed that when I talked to many of my white counterparts, I didn’t typically receive the same negative reaction. Why? I decided to do a little digging myself and found the concept of environmental justice.
 

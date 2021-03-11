@@ -111,7 +111,7 @@ What I am working toward recreating:
 [Source](https://www.alleghenycounty.us/uploadedFiles/Allegheny_Home/Health_Department/Resources/Data_and_Reporting/Chronic_Disease_Epidemiology/2019-Environmental-Justice-Report.pdf)
 
 
-# Call to Action
+## Call to Action
 
 1)	Links for additional information:
 
@@ -133,14 +133,14 @@ What I am working toward recreating:
 So, if your friend throws a piece of garbage on the ground, let him know that that is SO uncool
 
 
-# User Research and Interviews
+## User Research and Interviews
 
 - Target Audience: Individuals of color living in marginalized areas within Pittsburgh 
-- Approach to identifying representative individuals: I interview people of color, but to make the sample more representative I 1) chose participants who come from diverse cultural/ethnic backgrounds and 2) live in either impoverished and non-impoverished areas within Pittsburgh 
+- Approach to identifying representative individuals: I interview people of color, but to make the sample more representative I chose participants who 1) come from diverse cultural/ethnic backgrounds and 2) live in either impoverished and non-impoverished areas within Pittsburgh. 
 
 - Interview Findings:							
 
-*Questions*
+# *Questions*
 
 1) What do you think the purpose of this dataviz is for?
 
@@ -154,7 +154,7 @@ So, if your friend throws a piece of garbage on the ground, let him know that th
 
 6) What do you think would be an effective way for me to incite curiosity in this topic?
 
-*Main Findings*	
+# *Main Findings*	
 
 1) Overall, all the respondents understood the gist of my data visualizations, but at time times they relied on the times to understand each graph’s purpose. 
 
@@ -169,7 +169,7 @@ Another respondent said that the bars on the chart looked as if they were the sa
 
 6) Respondents mentioned that with this sort of topic, it’s so easy for people to brush off as if environmental injustice only happens in other places. One respondent suggested that if I’m trying increase curiosity in my target audience, I need to discuss what’s happening in neighborhoods they’re familiar with or ask them where their parents/grandparents live and discuss that.
 
-*Future Changes*
+# *Future Changes*
 
 1) I will be more deliberate about my titles and labels, as well as the information being displayed. I also think the visualizations may be easier to understand with some narrative with some context, but I do need to be more strategic about my data.
 

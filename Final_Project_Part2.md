@@ -79,11 +79,9 @@ With Allegheny County alone…
 
 •	11.7 live under the poverty line
 •	Less than 1 are Hispanic and 10 are non-Hispanic
-
 [Source](https://ephtracking.cdc.gov/showInfoByLocationExt?&FIPS=42003)
 
 Pittsburgh has yet again been ranked as one of the worst places for air pollution among US cities, coming in at 8th place
-
 [Source](https://www.pghcitypaper.com/pittsburgh/report-pittsburgh-ranked-8th-worst-for-air-pollution-among-us-cities/Content?oid=17179037)
 
 Within the city:
@@ -120,7 +118,14 @@ What I am working toward recreating:
 [Source](https://www.alleghenycounty.us/uploadedFiles/Allegheny_Home/Health_Department/Resources/Data_and_Reporting/Chronic_Disease_Epidemiology/HEB-ENV.pdf)
 
 2)	Ways to implement environmentally sustainable behaviors in everyday life:
-Insert list
+- Recycle plastic bottles
+- Reuse plastic bags
+- Turn off lights when not in use
+- Consume less meat
+- Only take what you can eat
+- Turn off the running water while brushing your teeth
+- Grow and harvest your own fresh produce in a local garden
+- EDUCATE YOURSELF
 [Source](https://www.conserve-energy-future.com/15-easy-ways-to-become-environmentally-friendly.php)
 
 

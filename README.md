@@ -1,8 +1,10 @@
+The following links will lead you to my github portfolio pages containing the preliminary and final steps in creating my final project titled "Environmental (In)justice":
+
 Link to [Part 1](final_project_ScoutCheeks.md)
 
 Link to [Part 2](Final_Project_Part2.md)
 
-Link to [Part 3](final_project_part3.md)
+Link to [Part 3](final_project_part3.md)![image](https://user-images.githubusercontent.com/78758958/111578630-e4469680-878a-11eb-9fce-f00fad5834ab.png)
 
 Link to [Final Data Story](https://carnegiemellon.shorthandstories.com/environmental--in-justice/index.html)
 
@@ -29,12 +31,7 @@ The following link will lead you to my github page containing visualizations tha
 [Pittsburgh's Fetal Mortality Rates](https://scheeks-cmu.github.io/Dataviz3.md/)
 
 
-# Environmental Injustices in Marginalized Communities 
 
-The following link will lead you to my github page containing preliminary steps of creating my final project including an outline of draft sketches, wireframes, and user research...
 
-You can view Part 1 of my project [here](final_project_ScoutCheeks.md)
-
-You can view Part 2 of my project [here](Final_Project_Part2.md)
 
 

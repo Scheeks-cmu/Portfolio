@@ -1,3 +1,5 @@
+The following links will lead you to my github portfolio pages containing the preliminary and final steps in creating my final project titled "Environmental (In)justice":
+
 Link to [Portfolio](README.md)
 
 Link to [Part 2](Final_Project_Part2.md)

@@ -6,11 +6,6 @@ Link to [Part 3](final_project_part3.md)
 
 Link to [Final Data Story](https://carnegiemellon.shorthandstories.com/environmental--in-justice/index.html)
 
-<script src="https://embed.shorthand.com/embed_10.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/environmental--in-justice/"><h1>Environmental (In)justice </h1><p> Caring for the environment -with cool people- in cool places.
- 
-Created by: Scout Cheeks  </p></div>
-
 # "Environmental Injustices in Marginalized Communities"
 
 ## Outline

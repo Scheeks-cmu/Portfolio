@@ -32,5 +32,4 @@ My ultimate goal is to start a non-profit organization centered around environme
 10.	“EPA Mapper.” EPA, Environmental Protection Agency, ejscreen.epa.gov/mapper/. 
 11.	“Health Equity Brief Environmental Factors in Allegheny County.” Allegheny County, Allegheny County Health Department, May 2018, www.alleghenycounty.us/uploadedFiles/Allegheny_Home/Health_Department/Resources/Data_and_Reporting/Chronic_Disease_Epidemiology/HEB-ACCESS.pdf. 
 12.	“21+ Easy Ways to Become Environmentally Friendly.” Conserve Energy Future, 4 June 2020, www.conserve-energy-future.com/15-easy-ways-to-become-environmentally-friendly.php. 
-![image](https://user-images.githubusercontent.com/78758958/111574934-cb86b280-8783-11eb-9c4b-20d58e629118.png)
 

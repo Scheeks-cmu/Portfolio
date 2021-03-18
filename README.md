@@ -2,6 +2,10 @@ Link to [Part 1](final_project_ScoutCheeks.md)
 
 Link to [Part 2](Final_Project_Part2.md)
 
+Link to [Part 3](final_project_part3.md)
+
+Link to [Final Data Story](https://carnegiemellon.shorthandstories.com/environmental--in-justice/index.html)
+
 # Portfolio
 This is my public portfolio for the Telling Stories with Data class at CMU!
 

@@ -4,7 +4,7 @@ Link to [Part 1](final_project_ScoutCheeks.md)
 
 Link to [Part 2](Final_Project_Part2.md)
 
-Link to [Part 3](final_project_part3.md)![image](https://user-images.githubusercontent.com/78758958/111578630-e4469680-878a-11eb-9fce-f00fad5834ab.png)
+Link to [Part 3](final_project_part3.md)
 
 Link to [Final Data Story](https://carnegiemellon.shorthandstories.com/environmental--in-justice/index.html)
 

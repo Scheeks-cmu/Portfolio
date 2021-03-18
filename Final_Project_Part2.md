@@ -1,3 +1,5 @@
+The following links will lead you to my github portfolio pages containing the preliminary and final steps in creating my final project titled "Environmental (In)justice":
+
 Link to [Portfolio](README.md)
 
 Link to [Part 1](final_project_ScoutCheeks.md)
@@ -196,10 +198,10 @@ Map of Allegheny County- in additional to highlighting areas, provide racial dem
 6) I will add a more personal appeal to the story and presentation. I chose the topic because it is personal to me, but I may have lost sight of this note when creating my project. Also, I will provide more actionable ways contribute to EJ while simultaneously encouraging sustainable behaviors.
 
 Resources:
-https://ejscreen.epa.gov/mapper/
-http://css.umich.edu/factsheets/environmental-justice-factsheet
-https://www.alleghenycounty.us/uploadedFiles/Allegheny_Home/Health_Department/Resources/Data_and_Reporting/Chronic_Disease_Epidemiology/HEB-ENV.pdf
-https://www.alleghenycounty.us/Health-Department/Resources/Data-and-Reporting/Air-Quality-Reports/Air-Quality-Reports-and-Studies.aspx
-https://www.insider.com/environmental-racism-examples-united-states-2020-8#cancer-alley-louisiana-1
-https://www.wastedive.com/news/majority-of-us-incinerators-located-in-marginalized-communities-report-r/555375/
+[1](https://ejscreen.epa.gov/mapper/)
+[2](http://css.umich.edu/factsheets/environmental-justice-factsheet)
+[3](https://www.alleghenycounty.us/uploadedFiles/Allegheny_Home/Health_Department/Resources/Data_and_Reporting/Chronic_Disease_Epidemiology/HEB-ENV.pdf)
+[4](https://www.alleghenycounty.us/Health-Department/Resources/Data-and-Reporting/Air-Quality-Reports/Air-Quality-Reports-and-Studies.aspx)
+[5](https://www.insider.com/environmental-racism-examples-united-states-2020-8#cancer-alley-louisiana-1)
+[6](https://www.wastedive.com/news/majority-of-us-incinerators-located-in-marginalized-communities-report-r/555375/)
 
